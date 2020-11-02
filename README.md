@@ -1,6 +1,8 @@
 Progress-CPP
 ===
 
+Original: [prakhar1989/progress-cpp: A flexible ASCII progress-bar for C++](https://github.com/prakhar1989/progress-cpp)
+
 A flexible ASCII progress bar for your console based C++ projects.
 
 ### Usage
